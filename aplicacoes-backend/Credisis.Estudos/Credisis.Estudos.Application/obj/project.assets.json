@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
+      "projectUniqueName": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
       "projectName": "Credisis.Estudos.Application",
-      "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
+      "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
       "packagesPath": "C:\\Users\\ree_m\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\obj\\",
+      "outputPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj": {
-              "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj"
+            "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj": {
+              "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj"
             }
           }
         }

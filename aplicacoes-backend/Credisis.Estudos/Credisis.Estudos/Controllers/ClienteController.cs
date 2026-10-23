@@ -9,16 +9,24 @@ namespace Credisis.Estudos.API.Controllers
     public class ClienteController(IClienteService service) : ControllerBase
     {
         [HttpPost]
-        public async Task<IActionResult> Criar([FromBody] CriarClienteCommand command)
+        public async Task<IActionResult> Criar([FromBody] CriarClienteCommand command, CancellationToken cancellationToken)
         {
-            var cliente = await service.CriarAsync(command, CancellationToken.None);
-            return CreatedAtAction(nameof(Obter), new { id = cliente.Id }, cliente);
+            try
+            {
+                var cliente = await service.CriarAsync(command, cancellationToken);
+                return CreatedAtAction(nameof(Obter), new { id = cliente.Id }, cliente);
+            }
+            catch (ArgumentException exception)
+            {
+                ModelState.AddModelError(exception.ParamName ?? string.Empty, exception.Message);
+                return ValidationProblem(ModelState);
+            }
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> Obter(int id)
+        public async Task<IActionResult> Obter(Guid id, CancellationToken cancellationToken)
         {
-            var cliente = await service.ObterClienteAsync(id, CancellationToken.None);
+            var cliente = await service.ObterClienteAsync(id, cancellationToken);
             if (cliente == null)
                 return NotFound();
 

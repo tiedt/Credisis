@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Credisis.Estudos.Domain\Credisis.Estudos.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

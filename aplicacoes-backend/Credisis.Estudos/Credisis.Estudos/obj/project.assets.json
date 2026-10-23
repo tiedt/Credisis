@@ -82,6 +82,19 @@
         "runtime": {
           "bin/placeholder/Credisis.Estudos.Domain.dll": {}
         }
+      },
+      "Credisis.Estudos.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Credisis.Estudos.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Credisis.Estudos.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Credisis.Estudos.Infra.dll": {}
+        }
       }
     }
   },
@@ -230,11 +243,17 @@
       "type": "project",
       "path": "../Credisis.Estudos.Domain/Credisis.Estudos.Domain.csproj",
       "msbuildProject": "../Credisis.Estudos.Domain/Credisis.Estudos.Domain.csproj"
+    },
+    "Credisis.Estudos.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Credisis.Estudos.Infra/Credisis.Estudos.Infra.csproj",
+      "msbuildProject": "../Credisis.Estudos.Infra/Credisis.Estudos.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Credisis.Estudos.Application >= 1.0.0",
+      "Credisis.Estudos.Infra >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.12",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.24.2-preview.1",
       "Scalar.AspNetCore >= 2.18.0"
@@ -247,11 +266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos\\Credisis.Estudos.API.csproj",
+      "projectUniqueName": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos\\Credisis.Estudos.API.csproj",
       "projectName": "Credisis.Estudos.API",
-      "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos\\Credisis.Estudos.API.csproj",
+      "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos\\Credisis.Estudos.API.csproj",
       "packagesPath": "C:\\Users\\ree_m\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos\\obj\\",
+      "outputPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -273,8 +292,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj": {
-              "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj"
+            "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj": {
+              "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj"
+            },
+            "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Infra\\Credisis.Estudos.Infra.csproj": {
+              "projectPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Infra\\Credisis.Estudos.Infra.csproj"
             }
           }
         }

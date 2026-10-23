@@ -1,41 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\",
+  "WorkspaceRootPath": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos.application\\services\\cliente\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos.application\\services\\cliente\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|solutionrelative:credisis.estudos.application\\services\\cliente\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC54508B-96E2-3A98-58D9-FCB5CCDDFD10}|Credisis.Estudos\\Credisis.Estudos.API.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC54508B-96E2-3A98-58D9-FCB5CCDDFD10}|Credisis.Estudos\\Credisis.Estudos.API.csproj|solutionrelative:credisis.estudos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos.domain\\models\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|solutionrelative:credisis.estudos.domain\\models\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC54508B-96E2-3A98-58D9-FCB5CCDDFD10}|Credisis.Estudos\\Credisis.Estudos.API.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC54508B-96E2-3A98-58D9-FCB5CCDDFD10}|Credisis.Estudos\\Credisis.Estudos.API.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC54508B-96E2-3A98-58D9-FCB5CCDDFD10}|Credisis.Estudos\\Credisis.Estudos.API.csproj|solutionrelative:credisis.estudos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos.application\\command\\cliente\\criarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos.application\\credisis.estudos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|solutionrelative:credisis.estudos.application\\credisis.estudos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos.application\\command\\cliente\\criarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|solutionrelative:credisis.estudos.application\\command\\cliente\\criarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos.domain\\interfaces\\repository\\cliente\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|solutionrelative:credisis.estudos.domain\\interfaces\\repository\\cliente\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC54508B-96E2-3A98-58D9-FCB5CCDDFD10}|Credisis.Estudos\\Credisis.Estudos.API.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC54508B-96E2-3A98-58D9-FCB5CCDDFD10}|Credisis.Estudos\\Credisis.Estudos.API.csproj|solutionrelative:credisis.estudos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos.application\\interface\\service\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A5ECBB-EAD8-FF4A-80EA-B2DC83464EDB}|Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj|solutionrelative:credisis.estudos.application\\interface\\service\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos.domain\\models\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|solutionrelative:credisis.estudos.domain\\models\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos.domain\\credisis.estudos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos.domain\\credisis.estudos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|solutionrelative:credisis.estudos.domain\\credisis.estudos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\credisis.estudos\\credisis.estudos.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|c:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\credisis.estudos\\credisis.estudos.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE4FBED4-7ECF-3B13-BA73-765A984E91E4}|Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj|solutionrelative:credisis.estudos.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
+              "RelativeToolTip": "Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T12:09:04.409Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -62,63 +71,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Credisis.Estudos.Application",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
+              "RelativeDocumentMoniker": "Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
+              "RelativeToolTip": "Credisis.Estudos.Application\\Credisis.Estudos.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-23T12:09:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Credisis.Estudos\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Credisis.Estudos\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T20:04:44.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Interface\\Service\\IClienteService.cs",
-              "RelativeDocumentMoniker": "Credisis.Estudos.Application\\Interface\\Service\\IClienteService.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Interface\\Service\\IClienteService.cs",
-              "RelativeToolTip": "Credisis.Estudos.Application\\Interface\\Service\\IClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T19:59:06.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
-              "RelativeDocumentMoniker": "Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
-              "RelativeToolTip": "Credisis.Estudos.Application\\Services\\Cliente\\ClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T19:57:51.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CriarClienteCommand.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Command\\Cliente\\CriarClienteCommand.cs",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Command\\Cliente\\CriarClienteCommand.cs",
               "RelativeDocumentMoniker": "Credisis.Estudos.Application\\Command\\Cliente\\CriarClienteCommand.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Application\\Command\\Cliente\\CriarClienteCommand.cs",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Application\\Command\\Cliente\\CriarClienteCommand.cs",
               "RelativeToolTip": "Credisis.Estudos.Application\\Command\\Cliente\\CriarClienteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T19:56:01.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Credisis.Estudos.Domain",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj",
+              "DocumentIndex": 6,
+              "Title": "Credisis.Estudos.Domain.csproj",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj",
               "RelativeDocumentMoniker": "Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj",
               "RelativeToolTip": "Credisis.Estudos.Domain\\Credisis.Estudos.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -127,24 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Interfaces\\Repository\\Cliente\\IClienteRepository.cs",
-              "RelativeDocumentMoniker": "Credisis.Estudos.Domain\\Interfaces\\Repository\\Cliente\\IClienteRepository.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Interfaces\\Repository\\Cliente\\IClienteRepository.cs",
-              "RelativeToolTip": "Credisis.Estudos.Domain\\Interfaces\\Repository\\Cliente\\IClienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T19:46:13.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Credisis.Estudos.Domain\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Credisis.Estudos.Domain\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,26 +135,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Models\\Cliente\\Cliente.cs",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Models\\Cliente\\Cliente.cs",
               "RelativeDocumentMoniker": "Credisis.Estudos.Domain\\Models\\Cliente\\Cliente.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos.Domain\\Models\\Cliente\\Cliente.cs",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos.Domain\\Models\\Cliente\\Cliente.cs",
               "RelativeToolTip": "Credisis.Estudos.Domain\\Models\\Cliente\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T19:41:25.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos\\Program.cs",
+              "DocumentMoniker": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos\\Program.cs",
               "RelativeDocumentMoniker": "Credisis.Estudos\\Program.cs",
-              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\Credisis.Estudos\\Credisis.Estudos\\Program.cs",
+              "ToolTip": "C:\\projetos\\credisis\\estudos-net\\credisis-estudos\\aplicacoes-backend\\Credisis.Estudos\\Credisis.Estudos\\Program.cs",
               "RelativeToolTip": "Credisis.Estudos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T19:17:39.529Z",
               "EditorCaption": ""

@@ -10,3 +10,15 @@ C:\projetos\credisis\estudos-net\credisis-estudos\Credisis.Estudos\Credisis.Estu
 C:\projetos\credisis\estudos-net\credisis-estudos\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.pdb
 C:\projetos\credisis\estudos-net\credisis-estudos\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\ref\Credisis.Estudos.Domain.dll
 C:\projetos\credisis\estudos-net\credisis-estudos\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.4A47957B.Up2Date
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\bin\Debug\net10.0\Credisis.Estudos.Domain.deps.json
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\bin\Debug\net10.0\Credisis.Estudos.Domain.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\bin\Debug\net10.0\Credisis.Estudos.Domain.pdb
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.AssemblyInfoInputs.cache
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.AssemblyInfo.cs
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.sourcelink.json
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\refint\Credisis.Estudos.Domain.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\Credisis.Estudos.Domain.pdb
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Domain\obj\Debug\net10.0\ref\Credisis.Estudos.Domain.dll

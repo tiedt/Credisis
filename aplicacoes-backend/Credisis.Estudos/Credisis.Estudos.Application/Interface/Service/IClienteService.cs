@@ -1,11 +1,10 @@
-﻿using Credisis.Estudos.Application.Command.Cliente;
-using Credisis.Estudos.Domain.Models.Cliente;
+using Credisis.Estudos.Application.Command.Cliente;
+using Credisis.Estudos.Application.Dto.Cliente;
 
-namespace Credisis.Estudos.Application
+namespace Credisis.Estudos.Application;
+
+public interface IClienteService
 {
-    public interface IClienteService
-    {
-        Task<Cliente> CriarAsync(CriarClienteCommand cliente, CancellationToken cancellationToken);
-        Task<Cliente> ObterClienteAsync(int id, CancellationToken cancellationToken);
-    }
+    Task<ClienteDto> CriarAsync(CriarClienteCommand command, CancellationToken cancellationToken);
+    Task<ClienteDto?> ObterClienteAsync(Guid id, CancellationToken cancellationToken);
 }

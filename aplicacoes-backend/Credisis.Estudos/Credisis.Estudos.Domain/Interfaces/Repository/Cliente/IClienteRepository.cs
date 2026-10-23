@@ -1,11 +1,9 @@
-﻿using Credisis.Estudos.Domain.Models.Cliente;
+using ClienteEntity = Credisis.Estudos.Domain.Models.Cliente.Cliente;
 
-namespace Credisis.Estudos.Domain.Interfaces.Repository.Cliente
+namespace Credisis.Estudos.Domain.Interfaces.Repository.Cliente;
+
+public interface IClienteRepository
 {
-    public interface IClienteRepository
-    {
-        //Task Adicionar(Cliente cliente, CancellationToken cancellationToken);
-        //Task<Cliente?> Buscar(Guid id, CancellationToken cancellationToken);
-
-    }
+    Task AdicionarAsync(ClienteEntity cliente, CancellationToken cancellationToken);
+    Task<ClienteEntity?> BuscarAsync(Guid id, CancellationToken cancellationToken);
 }

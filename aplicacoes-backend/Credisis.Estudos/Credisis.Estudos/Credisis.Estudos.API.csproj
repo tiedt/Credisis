@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Credisis.Estudos.Application\Credisis.Estudos.Application.csproj" />
+    <ProjectReference Include="..\Credisis.Estudos.Infra\Credisis.Estudos.Infra.csproj" />
   </ItemGroup>
 
 </Project>

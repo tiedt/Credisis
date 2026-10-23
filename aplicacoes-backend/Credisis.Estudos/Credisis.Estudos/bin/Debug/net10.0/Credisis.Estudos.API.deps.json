@@ -9,6 +9,7 @@
       "Credisis.Estudos.API/1.0.0": {
         "dependencies": {
           "Credisis.Estudos.Application": "1.0.0",
+          "Credisis.Estudos.Infra": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.12",
           "Scalar.AspNetCore": "2.18.0"
         },
@@ -61,6 +62,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Credisis.Estudos.Infra/1.0.0": {
+        "dependencies": {
+          "Credisis.Estudos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Credisis.Estudos.Infra.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -97,6 +109,11 @@
       "sha512": ""
     },
     "Credisis.Estudos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Credisis.Estudos.Infra/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

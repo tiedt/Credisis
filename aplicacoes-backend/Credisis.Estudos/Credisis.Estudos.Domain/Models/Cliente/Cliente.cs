@@ -4,8 +4,6 @@ namespace Credisis.Estudos.Domain.Models.Cliente
 {
     public class Cliente : BaseEntity
     {
-        public Cliente() {}
-
         public Cliente(string nome, string email)
         {
             if(string.IsNullOrWhiteSpace(nome))
@@ -15,7 +13,7 @@ namespace Credisis.Estudos.Domain.Models.Cliente
             Nome = nome;
             Email = email;
         }
-        public string Nome { get; set; }
-        public string Email { get; set; }
+        public string Nome { get; }
+        public string Email { get; }
     }
 }

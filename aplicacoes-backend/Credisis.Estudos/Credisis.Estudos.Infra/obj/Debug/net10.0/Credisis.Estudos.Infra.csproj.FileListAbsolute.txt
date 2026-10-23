@@ -1,0 +1,16 @@
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\bin\Debug\net10.0\Credisis.Estudos.Infra.deps.json
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\bin\Debug\net10.0\Credisis.Estudos.Infra.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\bin\Debug\net10.0\Credisis.Estudos.Infra.pdb
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.AssemblyInfoInputs.cache
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.AssemblyInfo.cs
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.csproj.CoreCompileInputs.cache
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.sourcelink.json
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\refint\Credisis.Estudos.Infra.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.pdb
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\ref\Credisis.Estudos.Infra.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.FA6E654F.Up2Date
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\bin\Debug\net10.0\Credisis.Estudos.Domain.dll
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\bin\Debug\net10.0\Credisis.Estudos.Domain.pdb
+C:\projetos\credisis\estudos-net\credisis-estudos\aplicacoes-backend\Credisis.Estudos\Credisis.Estudos.Infra\obj\Debug\net10.0\Credisis.Estudos.Infra.csproj.AssemblyReference.cache
