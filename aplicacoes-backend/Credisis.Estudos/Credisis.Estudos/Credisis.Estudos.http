@@ -1,0 +1,6 @@
+@Credisis.Estudos_HostAddress = http://localhost:5064
+
+GET {{Credisis.Estudos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

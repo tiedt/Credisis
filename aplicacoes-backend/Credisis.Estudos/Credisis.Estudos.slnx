@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Credisis.Estudos.Application/Credisis.Estudos.Application.csproj" />
+  <Project Path="Credisis.Estudos.Domain/Credisis.Estudos.Domain.csproj" />
+  <Project Path="Credisis.Estudos.Infra/Credisis.Estudos.Infra.csproj" />
+  <Project Path="Credisis.Estudos/Credisis.Estudos.API.csproj" />
+</Solution>

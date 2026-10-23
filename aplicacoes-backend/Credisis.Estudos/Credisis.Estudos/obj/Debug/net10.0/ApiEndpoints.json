@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Credisis.Estudos.API.Controllers.ClienteController",
+    "Method": "Criar",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Credisis.Estudos.Application.Command.Cliente.CriarClienteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Credisis.Estudos.API.Controllers.ClienteController",
+    "Method": "Obter",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
