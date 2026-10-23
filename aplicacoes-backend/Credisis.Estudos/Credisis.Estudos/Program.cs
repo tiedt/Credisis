@@ -1,9 +1,8 @@
 
 
-using Credisis.Estudos.Application;
-using Credisis.Estudos.Application.Services.Cliente;
-using Credisis.Estudos.Domain.Interfaces.Repository.Cliente;
-using Credisis.Estudos.Infra.Repository;
+using Credisis.Estudos.API.Helper;
+using Credisis.Estudos.Infra.Data;
+using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,9 +12,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-builder.Services.AddScoped<IClienteService, ClienteService>();
-builder.Services.AddSingleton<IClienteRepository, ClienteRepository>();
+builder.Services.AddServices();
+builder.Services.AddRepository();
+var connection = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<CredisisEstudosDbContext>(options =>
+    options.UseSqlServer(connection, sql => sql.EnableRetryOnFailure()));
 var app = builder.Build();
+
+using(var scoper = app.Services.CreateScope())
+{
+    var context = scoper.ServiceProvider.GetRequiredService<CredisisEstudosDbContext>();
+    context.Database.Migrate();
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsProduction())

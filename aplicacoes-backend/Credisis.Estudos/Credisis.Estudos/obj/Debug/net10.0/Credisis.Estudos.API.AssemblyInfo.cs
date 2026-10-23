@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Credisis.Estudos.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c79254a720a8939254847c1ef2115c432b5573f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a198f19aafde336b584ef4038f471a73b2d267")]
 [assembly: System.Reflection.AssemblyProductAttribute("Credisis.Estudos.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Credisis.Estudos.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
